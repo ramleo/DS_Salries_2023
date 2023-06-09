@@ -1,0 +1,30 @@
+.bg {
+  /*
+Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/data-science?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  */
+  background-image: url('datascience.jpg');
+  background-size: cover;
+  margin-bottom: -3rem;
+  padding-bottom: 1.75rem;
+  padding-top: 2.75rem;
+}
+
+.form {
+  color: #40128B;
+  text-align: center;
+}
+
+.navbar-brand h1 {
+  color:white;
+  margin-left: 140px;
+  text-align: center;
+}
+
+.navbar-brand h3 {
+  color: #FFFF;
+  margin-left: 140px;
+  text-align: center;
+}
+
+
+

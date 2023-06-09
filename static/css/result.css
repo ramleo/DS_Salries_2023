@@ -1,0 +1,17 @@
+.prediction {
+  color: #40128B;
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.navbar-brand h1 {
+  color:white;
+  margin-left: 140px;
+  text-align: center;
+}
+
+.navbar-brand h3 {
+  color: #FFFF;
+  margin-left: 140px;
+  text-align: center;
+}
